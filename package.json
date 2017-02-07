@@ -1,0 +1,9 @@
+{
+  "name": "jwt-simple-scalajs",
+  "version": "0.3.1",
+  "private": true,
+  "dependencies": {
+    "jwt-simple": "^0.5.1",
+    "source-map": "^0.5.6"
+  }
+}
