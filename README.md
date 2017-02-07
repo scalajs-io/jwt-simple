@@ -31,8 +31,6 @@ $ sbt test
 
 #### Examples
 
-First let's define some values
-
 ```scala
 import io.scalajs.JSON
 import io.scalajs.npm.jwtsimple._
