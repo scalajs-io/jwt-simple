@@ -54,7 +54,7 @@ println(s"payload: ${JSON.stringify(decoded)}") //=> { foo: "bar" }
 To add the `JwtSimple` binding to your project, add the following to your build.sbt:  
 
 ```sbt
-libraryDependencies += "io.scalajs.npm" %%% "jwt-simple" % "0.5.1-3"
+libraryDependencies += "io.scalajs.npm" %%% "jwt-simple" % "0.5.1-4"
 ```
 
 Optionally, you may add the Sonatype Repository resolver:
