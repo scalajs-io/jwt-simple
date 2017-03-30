@@ -1,6 +1,6 @@
 {
   "name": "jwt-simple-sjs",
-  "version": "0.4.0-pre1",
+  "version": "0.4.0-pre2",
   "private": true,
   "dependencies": {
     "jwt-simple": "^0.5.1",
